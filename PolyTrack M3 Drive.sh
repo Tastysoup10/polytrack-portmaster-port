@@ -5,9 +5,6 @@
 # stick steer, X respawn at the last checkpoint, Y restart, Start pause menu (resume, restart, view distance,
 # choose track, quit), Start + Select quit.
 # Writes only into ./r36s-m3/: records.txt, settings.ini, m3-log-<date>.txt, launcher.log. No network.
-#
-# PERSONAL TEST ONLY: r36s-m3 contains code generated from PolyTrack's physics module and the game's models and
-# tracks (c) Kodub. Do not share this package.
 
 HERE="$(cd "$(dirname "$0")" && pwd)"
 PKG="$HERE/r36s-m3"
