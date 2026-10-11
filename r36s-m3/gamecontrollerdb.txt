@@ -1,0 +1,4 @@
+# R36S (dArkOSRE 03082026) "GO-Super Gamepad". Based on SDL 2.32.10's built-in mapping, plus back/start/stick
+# clicks determined from device-reports/m1/launcher.log (button order pressed by the user: Select=b12,
+# Start=b13, L3=b14, R3=b15). b16 is not yet identified.
+1900bb3e4b4800000011000000010000,GO-Super Gamepad,a:b0,b:b1,x:b2,y:b3,leftshoulder:b4,rightshoulder:b5,lefttrigger:b6,righttrigger:b7,dpup:b8,dpdown:b9,dpleft:b10,dpright:b11,back:b12,start:b13,leftstick:b14,rightstick:b15,leftx:a0,lefty:a1,rightx:a2,righty:a3,platform:Linux,
